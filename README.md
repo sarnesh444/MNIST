@@ -1,1 +1,2 @@
 # MNIST
+### The MNIST an in-built dataset in tensorflow is hand written digit recognition problem,where in a handwritten digit is to be recognized and predict the target class a number between 1 to 10,this model achieves an accuracy of 99.13 and I have used the callback feature to terminate the execution of epochs after a certain target accuaracy has been achieved,a 3 layer NN solved the problem. 
